@@ -52,7 +52,7 @@ nix (use the [Nix Determinate installer](https://github.com/DeterminateSystems/n
 https://github.com/Aylur/dotfiles
 
 ### Kitty:
-https://github.com/catppuccin/kitty/ Mochahttps://github.com/sirlan-ff00ff/arcticfox-theme
+https://github.com/catppuccin/kitty/ Mocha
 
 ### Grub:
 https://github.com/catppuccin/grub/ Mocha
