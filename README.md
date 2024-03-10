@@ -31,6 +31,15 @@ nix (use the [Nix Determinate installer](https://github.com/DeterminateSystems/n
 - [AGS Dots](https://github.com/Aylur/dotfiles) (Wi-Fi name redacted)
 ![2024-03-10_17-48-18](https://github.com/fortunef/My-Arch-Install/assets/141419112/42ed12a5-89b6-4709-be46-81cb495f7c53)
 
+- Spotify w/ [Spicetify](https://spicetify.app/) and the [Catppuccin Mocha](https://github.com/catppuccin/spicetify) theme
+![2024-03-10_23-35-50](https://github.com/fortunef/My-Arch-Install/assets/141419112/ea164a65-333a-42a6-a892-812e6b78ce88)
+
+- [NVChad](https://nvchad.com/)
+![2024-03-10_23-30-12](https://github.com/fortunef/My-Arch-Install/assets/141419112/92c3eb67-e05c-4179-bac6-4297da45131c)
+
+- [Kitty](https://sw.kovidgoyal.net/kitty/), [LSD](https://github.com/lsd-rs/lsd), and [Starship](https://starship.rs/)
+![2024-03-10_23-31-47](https://github.com/fortunef/My-Arch-Install/assets/141419112/fe720c76-bff9-4e0a-8e40-c631a9466661)
+
 
 - Steam w/ [AdwSteamGTK](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) (Catppuccin Mocha)
 ![2024-03-10_17-49-41](https://github.com/fortunef/My-Arch-Install/assets/141419112/a377c042-47d8-458a-9fb5-006c5997fbc1)
