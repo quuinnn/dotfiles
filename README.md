@@ -3,7 +3,7 @@ A backup of a shitload of config files from my Arch Linux system.
 
 # Previews
 [AGS Dots](https://github.com/Aylur/dotfiles)
-![2024-03-10_17-48-18](https://github.com/fortunef/My-Arch-Install/assets/141419112/b5b2f0be-22b3-41d3-a640-5e4b42d387d6)
+
 
 Steam w/ [AdwSteamGTK](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk)
 ![2024-03-10_17-49-41](https://github.com/fortunef/My-Arch-Install/assets/141419112/a377c042-47d8-458a-9fb5-006c5997fbc1)
