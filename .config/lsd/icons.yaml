@@ -11,6 +11,44 @@ extension:
   md: 
   pdf: 
   png: 
+  exe: 
+  c: 
+  cpp: 
+  bat: 
+  dll: 
+  wav: 
+  mp3: 
+  aiff: 
+  ogg: 
+  mogg: 
+  iso: 󰻂
+  sqlite: 
+  xci: 󰟡
+  nsp: 󰟡
+  nes: 
+  sfc: 
+  bin: 
+  gen: 󰮂
+  oga: 
+  m4a: 
+  flac: 
+  doc: 󰈙
+  docx: 󰈙
+  reg: 
+  mp4: 
+  msi: 
+  jpg: 
+  txt: 
+  svg: 
+  conf: 
+  bak: 
+  zip: 
+  nix: 󱄅
+  ova: 󰃔
+  part: 󰋮
+  deb: 
+  rpm: 󱄛
+  flatpak: 
 filetype:
   dir: 
   file: 
