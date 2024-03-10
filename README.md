@@ -1,6 +1,8 @@
 # fortunef/dotfiles
 My personal dotfiles
 
+might make a .qcow2 for anyone wanting to run this in a virtual machine. Or/And a .ova (I think thats the virtual box image file type thing?)
+
 # Prerequisites
 
 pactl
