@@ -1,5 +1,23 @@
 # My-Arch-Install
-A backup of a shitload of config files from my Arch Linux system. 
+A backup of a shitload of config files from my Arch Linux system.
+
+# Prerequisites
+
+pactl
+
+hyprland-git
+
+hyprlock-git
+
+hypridle-git
+
+brightnessctl
+
+kitty
+
+neovim
+
+nix
 
 # Previews
 - [AGS Dots](https://github.com/Aylur/dotfiles) (Wi-Fi name redacted)
@@ -33,6 +51,9 @@ https://github.com/ful1e5/Bibata_Cursor Classic
 
 ### Firefox:
 https://github.com/sirlan-ff00ff/arcticfox-theme w/ [catppuccin/firefox](https://github.com/catppuccin/firefox) Mocha
+
+### Steam:
+https://flathub.org/apps/io.github.Foldex.AdwSteamGtk
 
 ### Neovim:
 https://nvchad.com/
