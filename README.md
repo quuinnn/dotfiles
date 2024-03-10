@@ -20,6 +20,8 @@ neovim
 nix (use the [Nix Determinate installer](https://github.com/DeterminateSystems/nix-installer))
 
 # Previews
+## FYI The Steam logo for some reason changed to the Morrowind logo whilst using Aylurs AGS Dotfiles and I don't know why. Could fix it by changing Icon themes and/or modifying the .desktop file but I'm to lazy to do allat
+
 - [AGS Dots](https://github.com/Aylur/dotfiles) (Wi-Fi name redacted)
 ![2024-03-10_17-48-18](https://github.com/fortunef/My-Arch-Install/assets/141419112/42ed12a5-89b6-4709-be46-81cb495f7c53)
 
