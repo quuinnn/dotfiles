@@ -17,7 +17,7 @@ kitty
 
 neovim
 
-nix
+nix (use the [Nix Determinate installer](https://github.com/DeterminateSystems/nix-installer))
 
 # Previews
 - [AGS Dots](https://github.com/Aylur/dotfiles) (Wi-Fi name redacted)
