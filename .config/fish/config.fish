@@ -1,10 +1,11 @@
-set -g fish_greeting
+set -g fish_greeting # Gets rid of the "Welcome to fish yip yap yip yap" greeting
 
-if status is-interactive
+# Starts up starship
+if status is-interactive 
     starship init fish | source
 end
 
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)" # Homebrew for Linux
 
 # List Directory
 alias ls="lsd"
