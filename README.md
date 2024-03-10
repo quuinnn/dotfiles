@@ -5,13 +5,15 @@ A backup of a shitload of config files from my Arch Linux system.
 
 pactl
 
-hyprland-git
+hyprland(-git)
 
-hyprlock-git
+hyprlock(-git)
 
-hypridle-git
+hypridle(-git)
 
 brightnessctl
+
+trash-cli
 
 starship
 
