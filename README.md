@@ -2,7 +2,8 @@
 A backup of a shitload of config files from my Arch Linux system. 
 
 # Previews
-[AGS Dots](https://github.com/Aylur/dotfiles)
+[AGS Dots](https://github.com/Aylur/dotfiles) (Wi-Fi name redacted)
+![2024-03-10_17-48-18](https://github.com/fortunef/My-Arch-Install/assets/141419112/42ed12a5-89b6-4709-be46-81cb495f7c53)
 
 
 Steam w/ [AdwSteamGTK](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk)
