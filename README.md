@@ -15,7 +15,7 @@ brightnessctl
 
 lsd (the program, not the drug)
 
-a [nerd font](https://www.nerdfonts.com/] installed
+a [nerd font](https://www.nerdfonts.com/) installed
 
 kitty
 
