@@ -58,7 +58,7 @@ https://github.com/sirlan-ff00ff/arcticfox-theme w/ [catppuccin/firefox](https:/
 https://flathub.org/apps/io.github.Foldex.AdwSteamGtk
 
 ### Neovim:
-https://nvchad.com/ 
+https://nvchad.com/ (copy over [my chadrc](https://github.com/fortunef/My-Arch-Install/blob/main/.config/nvim/lua/custom/chadrc.lua)
 
 # License
 This project is licensed under the MIT License. It allows you to modify this for any usage but with absolutely **ZERO** warranty. For more information, [read the license](https://github.com/fortunef/My-Arch-Install/blob/main/LICENSE).
