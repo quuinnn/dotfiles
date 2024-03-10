@@ -1,5 +1,5 @@
 # dotfiles
-A backup of a shitload of config files from my Arch Linux system.
+My personal dotfiles
 
 # Prerequisites
 
