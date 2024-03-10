@@ -1,4 +1,4 @@
-# dotfiles
+# fortunef/dotfiles
 My personal dotfiles
 
 # Prerequisites
