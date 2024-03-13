@@ -73,7 +73,7 @@ https://github.com/ful1e5/Bibata_Cursor Classic
 
 ### Firefox:
 https://github.com/sirlan-ff00ff/arcticfox-theme w/ [catppuccin/firefox](https://github.com/catppuccin/firefox) Mocha
-https://tabliss.io/
+
 ### Dark Reader
 https://github.com/catppuccin/dark-reader Mocha
 
