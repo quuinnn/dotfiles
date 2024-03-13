@@ -34,7 +34,7 @@ nix (use the [Nix Determinate installer](https://github.com/DeterminateSystems/n
 ### - [AGS Dots](https://github.com/Aylur/dotfiles) (Wi-Fi name redacted)
 ![2024-03-10_17-48-18](https://github.com/fortunef/My-Arch-Install/assets/141419112/42ed12a5-89b6-4709-be46-81cb495f7c53)
 
-### - Spotify w/ [Spicetify](https://spicetify.app/) and the [Catppuccin Mocha](https://github.com/catppuccin/spicetify) theme
+### - Spotify w/ [Spicetify](https://spicetify.app/), the [Catppuccin Mocha](https://github.com/catppuccin/spicetify) theme, and a bunch of extensions
 ![2024-03-10_23-35-50](https://github.com/fortunef/My-Arch-Install/assets/141419112/ea164a65-333a-42a6-a892-812e6b78ce88)
 
 ### - [NVChad](https://nvchad.com/)
@@ -71,6 +71,9 @@ https://github.com/ful1e5/Bibata_Cursor Classic
 
 ### Firefox:
 https://github.com/sirlan-ff00ff/arcticfox-theme w/ [catppuccin/firefox](https://github.com/catppuccin/firefox) Mocha
+
+### Dark Reader
+https://github.com/catppuccin/dark-reader
 
 ### Steam:
 https://flathub.org/apps/io.github.Foldex.AdwSteamGtk
