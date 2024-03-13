@@ -62,6 +62,9 @@ https://github.com/catppuccin/grub/ Mocha
 ### GTK:
 https://github.com/catppuccin/gtk Mocha
 
+### Starship
+Default
+
 ### Icon:
 https://github.com/vinceliuice/Tela-circle-icon-theme Dracula
 
