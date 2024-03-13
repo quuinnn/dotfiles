@@ -19,7 +19,7 @@ trash-cli
 
 starship
 
-lsd (the program, not the drug)
+lsd (the program, not the drug although they're both amazing in their own ways)
 
 a [nerd font](https://www.nerdfonts.com/) installed **(REALLY IMPORTANT)**
 
@@ -70,7 +70,7 @@ https://github.com/ful1e5/Bibata_Cursor Classic
 
 ### Firefox:
 https://github.com/sirlan-ff00ff/arcticfox-theme w/ [catppuccin/firefox](https://github.com/catppuccin/firefox) Mocha
-
+https://tabliss.io/
 ### Dark Reader
 https://github.com/catppuccin/dark-reader Mocha
 
