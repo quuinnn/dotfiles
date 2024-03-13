@@ -43,11 +43,10 @@ nix (use the [Nix Determinate installer](https://github.com/DeterminateSystems/n
 ### - [Kitty](https://sw.kovidgoyal.net/kitty/), [LSD](https://github.com/lsd-rs/lsd), and [Starship](https://starship.rs/)
 ![2024-03-10_23-31-47](https://github.com/fortunef/My-Arch-Install/assets/141419112/fe720c76-bff9-4e0a-8e40-c631a9466661)
 
-
 ### - Steam w/ [AdwSteamGTK](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) (Catppuccin Mocha)
 ![2024-03-10_17-49-41](https://github.com/fortunef/My-Arch-Install/assets/141419112/a377c042-47d8-458a-9fb5-006c5997fbc1)
 
-### - Firefox w/ [Arcticfox](https://github.com/sirlan-ff00ff/arcticfox-theme)
+### - Firefox w/ [Arcticfox](https://github.com/sirlan-ff00ff/arcticfox-theme) and the [Tabliss](https://tabliss.io/) extension.
 ![2024-03-10_19-16-45](https://github.com/fortunef/My-Arch-Install/assets/141419112/8795a807-b594-43d2-b897-3add61e9249c)
 
 # Credits | Dotfiles
@@ -73,10 +72,10 @@ https://github.com/ful1e5/Bibata_Cursor Classic
 https://github.com/sirlan-ff00ff/arcticfox-theme w/ [catppuccin/firefox](https://github.com/catppuccin/firefox) Mocha
 
 ### Dark Reader
-https://github.com/catppuccin/dark-reader
+https://github.com/catppuccin/dark-reader Mocha
 
 ### Steam:
-https://flathub.org/apps/io.github.Foldex.AdwSteamGtk
+https://flathub.org/apps/io.github.Foldex.AdwSteamGtk Theme: Catppuccin-Mocha, Window Controls: None, Controls Style: Dots, and the rest at default
 
 ### Neovim:
 https://nvchad.com/ (copy over [my chadrc](https://github.com/fortunef/My-Arch-Install/blob/main/.config/nvim/lua/custom/chadrc.lua))
