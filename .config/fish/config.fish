@@ -15,7 +15,7 @@ alias lla="ls -la"
 alias lt="ls --tree"
 
 # Scripts
-alias surf="sh ~/scripts/wrappers/surf-wayland.sh"
+alias surf="sh ~/scripts/wrappers/surf-wayland.sh" # Suckless Surf BTW
 alias lsrepo="sh ~/scripts/pacman/list_repo.sh"
 
 alias rm="trash"
