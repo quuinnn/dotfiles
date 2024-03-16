@@ -1,11 +1,10 @@
-set -g fish_greeting # Gets rid of the "Welcome to fish yip yap yip yap" greeting
+set -g fish_greeting
 
-# Starts up starship
-if status is-interactive 
+if status is-interactive
     starship init fish | source
 end
 
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)" # Homebrew for Linux
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 # List Directory
 alias ls="lsd"
@@ -15,10 +14,16 @@ alias lla="ls -la"
 alias lt="ls --tree"
 
 # Scripts
-alias surf="sh ~/scripts/wrappers/surf-wayland.sh" # Suckless Surf BTW
-alias lsrepo="sh ~/scripts/pacman/list_repo.sh"
+alias surf="sh /home/user/scripts/wrappers/surf-wayland.sh"
+alias lsrepo="sh /home/user/scripts/pacman/list_repo.sh"
 
+# etc
+alias hackermode="sudo docker run --rm -it bcbcarl/hollywood"
 alias rm="trash"
+alias :q="quit"
+
+# Distrobox
+alias dbox="distrobox"
 
 # Handy change dir shortcuts
 abbr .. 'cd ..'
