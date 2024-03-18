@@ -9,11 +9,11 @@ BTW if you clone this repo and cd into it then run the ls command, the .mozilla 
 
 pactl
 
-hyprland(-git)
+hyprland-git
 
-hyprlock(-git)
+hyprlock-git
 
-hypridle(-git)
+hypridle-git
 
 brightnessctl
 
