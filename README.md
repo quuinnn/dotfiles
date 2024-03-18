@@ -9,6 +9,12 @@ BTW if you clone this repo and cd into it then run the ls command, the .mozilla 
 
 pactl
 
+polkit
+
+gtk
+
+qt6ct
+
 hyprland-git
 
 hyprlock-git
