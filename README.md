@@ -15,7 +15,7 @@ gtk
 
 qt6ct
 
-hyprland-git
+hyprland-git (you really need the -git version or you'll have to edit out alot of stuff from "/.config/hypr/hyprland.conf")
 
 hyprlock-git
 
