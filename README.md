@@ -3,7 +3,7 @@ My personal dotfiles
 
 might make a .qcow2 for anyone wanting to run this in a virtual machine. Or/and a .ova (I think thats the virtual box image file type thing?)
 
-BTW if you clone this repo and cd into it then run the ls command, the .mozilla and .config directories are HIDDEN because they start with "." (my fault) so you have to run `ls -a` to show them
+**BTW if you clone this repo and cd into it then run the ls command, the .mozilla and .config directories are HIDDEN because they start with "." (my fault) so you have to run `ls -a` to show them**
 
 # Prerequisites
 
