@@ -21,6 +21,12 @@ alias lsrepo="sh /home/user/scripts/pacman/list_repo.sh"
 alias hackermode="sudo docker run --rm -it bcbcarl/hollywood"
 alias rm="trash"
 alias :q="exit"
+alias :q!="exit"
+
+# pacman
+alias cleanup="yay -Rcns $(pacman -Qdtq)" 
+alias clearcache="yay -Scc"
+alias remove="yay -Rcns"
 
 # Distrobox
 alias dbox="distrobox"
