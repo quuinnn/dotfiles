@@ -24,7 +24,7 @@ alias :q="exit"
 alias :q!="exit"
 
 # pacman
-alias cleanup="yay -Rcns $(pacman -Qdtq)" 
+#alias cleanup="yay -Rcns $(pacman -Qdtq)" 
 alias clearcache="yay -Scc"
 alias remove="yay -Rcns"
 
