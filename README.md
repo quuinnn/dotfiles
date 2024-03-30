@@ -97,7 +97,9 @@ vim.filetype.add({
   pattern = { [".*/hypr/.*%.conf"] = "hyprlang" },
 })
 ```
-to your init.lua, and run `:TSInstall hyprlang` for [hyprlang](https://hyprland.org/hyprlang/) syntax hilighting
+to your init.lua, and run `:TSInstall hyprlang` for [hyprlang](https://hyprland.org/hyprlang/) syntax hilighting 
+
+(the syntax highlighting has some mistakes, but it's better than none)
 
 # License
 This project is licensed under the MIT License. It allows you to modify this for any usage but with absolutely **ZERO** warranty. For more information, [read the license](https://github.com/fortunef/My-Arch-Install/blob/main/LICENSE).
