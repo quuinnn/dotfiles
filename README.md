@@ -43,7 +43,7 @@ nix (use the [Nix Determinate installer](https://github.com/DeterminateSystems/n
 ![2024-03-10_17-48-18](https://github.com/fortunef/My-Arch-Install/assets/141419112/42ed12a5-89b6-4709-be46-81cb495f7c53)
 
 ### - Spotify w/ [Spicetify](https://spicetify.app/), the [Catppuccin Mocha](https://github.com/catppuccin/spicetify) theme, and a bunch of extensions
-![2024-03-10_23-35-50](https://github.com/fortunef/My-Arch-Install/assets/141419112/ea164a65-333a-42a6-a892-812e6b78ce88)
+![2024-04-03_23-40-40](https://github.com/fortunef/dotfiles/assets/141419112/c6433461-e87d-4cb0-a87e-6011a07a1cdf)
 
 ### - [NVChad](https://nvchad.com/)
 ![2024-03-10_23-30-12](https://github.com/fortunef/My-Arch-Install/assets/141419112/92c3eb67-e05c-4179-bac6-4297da45131c)
@@ -52,7 +52,7 @@ nix (use the [Nix Determinate installer](https://github.com/DeterminateSystems/n
 ![2024-03-10_23-31-47](https://github.com/fortunef/My-Arch-Install/assets/141419112/fe720c76-bff9-4e0a-8e40-c631a9466661)
 
 ### - Steam w/ [AdwSteamGTK](https://flathub.org/apps/io.github.Foldex.AdwSteamGtk) (Catppuccin Mocha)
-![2024-03-10_17-49-41](https://github.com/fortunef/My-Arch-Install/assets/141419112/a377c042-47d8-458a-9fb5-006c5997fbc1)
+![2024-04-03_23-38-20](https://github.com/fortunef/dotfiles/assets/141419112/febe7dbe-8843-4b0f-adab-99974914c531)
 
 ### - Firefox w/ [Arcticfox](https://github.com/sirlan-ff00ff/arcticfox-theme) and the [Tabliss](https://tabliss.io/) extension.
 ![2024-03-10_19-16-45](https://github.com/fortunef/My-Arch-Install/assets/141419112/8795a807-b594-43d2-b897-3add61e9249c)
