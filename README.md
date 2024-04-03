@@ -39,6 +39,8 @@ nix (use the [Nix Determinate installer](https://github.com/DeterminateSystems/n
 
 # Previews
 
+All rights reserved to the copyright owners of the images used below
+
 ### - [AGS Dots](https://github.com/Aylur/dotfiles) (Wi-Fi name redacted)
 ![2024-03-10_17-48-18](https://github.com/fortunef/My-Arch-Install/assets/141419112/42ed12a5-89b6-4709-be46-81cb495f7c53)
 
