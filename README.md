@@ -3,7 +3,9 @@ My personal dotfiles
 
 **BTW if you clone this repo and cd into it then run the ls command, the .mozilla and .config directories are HIDDEN because they start with "." (my fault) so you have to run `ls -a` to show them**
 
-# Prerequisites
+This setup uses around 600-700MiBs RAM on idle on my 15693MiB (16GBs) 12th Gen Intel i5-1235U machine (11 cores, 4.400GHz)
+
+# RAM Prerequisites
 
 pactl
 
