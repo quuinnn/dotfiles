@@ -22,6 +22,7 @@ alias hackermode="sudo docker run --rm -it bcbcarl/hollywood"
 alias rm="trash"
 alias :q="exit"
 alias :q!="exit"
+alias sex="sex -w"
 
 # pacman
 #alias cleanup="yay -Rcns $(pacman -Qdtq)" 
@@ -43,3 +44,5 @@ abbr mkdir 'mkdir -p'
 
 # Fixes "Error opening terminal: xterm-kitty" when using the default kitty term to open some programs through ssh
 alias ssh='kitten ssh'
+
+fish_add_path ~/.spicetify
